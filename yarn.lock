@@ -9538,10 +9538,9 @@ makeerror@1.0.12:
   dependencies:
     tmpl "1.0.5"
 
-mammoth@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/mammoth/-/mammoth-1.6.0.tgz#3a80e016b3d1374c9404eb841048c70295276532"
-  integrity "sha1-OoDgFrPRN0yUBOuEEEjHApUnZTI= sha512-jOwbj6BwJzxCf6jr2l1zmSemniIkLnchvELXnDJCANlJawhzyIKObIq48B8kWEPLgUUh57k7FtEO3DHFQMnjMg=="
+mammoth@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/mammoth/-/mammoth-1.8.0.tgz#d8f1b0d3a0355fda129270346e9dc853f223028f"
   dependencies:
     "@xmldom/xmldom" "^0.8.6"
     argparse "~1.0.3"
