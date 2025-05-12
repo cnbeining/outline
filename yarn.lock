@@ -8099,10 +8099,10 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-discord-api-types@^0.37.119:
-  version "0.37.119"
-  resolved "https://registry.yarnpkg.com/discord-api-types/-/discord-api-types-0.37.119.tgz#29e32f635351da32dd4c92defcafdeb65156ad33"
-  integrity sha512-WasbGFXEB+VQWXlo6IpW3oUv73Yuau1Ig4AZF/m13tXcTKnMpc/mHjpztIlz4+BM9FG9BHQkEXiPto3bKduQUg==
+discord-api-types@^0.38.5:
+  version "0.38.5"
+  resolved "https://registry.yarnpkg.com/discord-api-types/-/discord-api-types-0.38.5.tgz#d6f1e3b734abdc4844d2c465f0f8d330d40ffd65"
+  integrity sha512-2sRkDRid39myMMeRzVTWLc2PyafSxu6k3LHpkB1Lx6IVzqycRnIhOedCbXg3IYpbJhKvA7ErNAh0DA/nXG/1Uw==
 
 dnd-core@^16.0.1:
   version "16.0.1"
