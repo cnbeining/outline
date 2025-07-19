@@ -348,7 +348,7 @@
     "babel-plugin-tsconfig-paths-module-resolver": "^1.0.4",
     "browserslist-to-esbuild": "^1.2.0",
     "concurrently": "^8.2.2",
-    "discord-api-types": "^0.37.119",
+    "discord-api-types": "^0.38.16",
     "husky": "^8.0.3",
     "i18next-parser": "^8.13.0",
     "jest-cli": "^29.7.0",
