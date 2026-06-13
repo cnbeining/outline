@@ -288,7 +288,7 @@
     "@babel/preset-typescript": "^7.29.7",
     "@faker-js/faker": "^8.4.1",
     "@relative-ci/agent": "^4.3.1",
-    "@swc/core": "^1.15.32",
+    "@swc/core": "^1.15.40",
     "@types/addressparser": "^1.0.3",
     "@types/cookie": "0.6.0",
     "@types/crypto-js": "^4.2.2",
