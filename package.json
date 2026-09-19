@@ -174,7 +174,7 @@
     "koa-useragent": "^4.1.0",
     "lib0": "^0.2.99",
     "mailparser": "^3.9.20",
-    "mammoth": "^1.11.0",
+    "mammoth": "^1.12.3",
     "markdown-it": "^14.3.1",
     "markdown-it-container": "^3.0.0",
     "markdown-it-emoji": "^3.0.0",
